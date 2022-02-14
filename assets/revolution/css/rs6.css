@@ -354,7 +354,7 @@ rs-module img{
 rs-module .no-slides-text{font-weight:bold;text-align:center;padding-top:80px;}
 
 
-rs-slides, rs-slide, rs-slide:before {	 position:absolute;text-indent: 0em;top:0px;left:0px;}
+rs-slides, rs-slide, rs-slide:before {	 position:absolute;text-indent: 0em;top:0px;left:0px; height: 80% !important;}
 rs-slide,rs-slide:before {  display:block; visibility:hidden; }
 
 .rs-layer .rs-untoggled-content { display:block;}
@@ -1411,17 +1411,19 @@ rs-loader.spinner6{width:40px;height:40px;-webkit-transform:translate(-50%,-50%)
     border-radius: 50%;
     overflow: hidden;
     background: rgba(0,0,0,0.009);
+	top: 30% !important;
 }
 #rev_slider_1_1_wrapper .zeus.tparrows:before {
     font-family: 'revicons';
     font-size: 20px;
     color: #ffffff;
     display: block;
-    line-height: 70px;
+    line-height: 25px;
     text-align: center;
     z-index: 2;
     position: relative;
     background: rgba(0,0,0,0.099);
+	top: 30% !important;
 }
 #rev_slider_1_1_wrapper .zeus.tparrows.tp-leftarrow:before {
     content: '\e824';

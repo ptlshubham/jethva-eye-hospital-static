@@ -960,7 +960,7 @@ body{ counter-reset: section; }
     font-family: "Poppins",Arial,Helvetica,sans-serif;
 } 
 /*  style1 */
-.featured-icon-box-style1-row{margin-top: -35px;padding-left: 10px;padding-right: 10px;}
+.featured-icon-box-style1-row{margin-top: -360px;padding-left: 10px;padding-right: 10px;}
 .featured-icon-box.style1{ padding: 28px 20px;}
 .featured-icon-box.style1 .featured-title h5{font-weight: 500;}
 .featured-icon-box.style1 .featured-desc p{font-weight: 300;}
