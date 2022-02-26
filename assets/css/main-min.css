@@ -3677,8 +3677,19 @@ ul.info-list li i {
 /* custome css */
 
 div {
+    /* text-align: justify; */
+    /* text-justify: inter-word; */
+}
+
+.ttm-historybox-description,
+.ttm-box-description,
+blockquote,
+.title-desc {
     text-align: justify;
-    text-justify: inter-word;
+}
+
+div p {
+    text-align: justify;
 }
 
 #jethwaimg {
