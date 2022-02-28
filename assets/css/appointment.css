@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to right, blue, white)
+    /* background-image: linear-gradient(to right, blue, white) */
 }
 
 .section {
@@ -18,6 +18,7 @@ body {
 .booking-form {
     position: relative;
     max-width: 642px;
+    background-color: #2e2e9b;
     width: 100%;
     margin: auto;
     padding: 40px;
@@ -175,7 +176,7 @@ option {}
 
 .booking-form .submit-btn {
     color: #fff;
-    background-color: blue;
+    background-color: #2d4a8a;
     font-weight: 700;
     height: 60px;
     padding: 10px 30px;
