@@ -706,7 +706,7 @@
         text-decoration: none;
         line-height: 18px !important;
         height: auto;
-        font-family: monospace;
+        /* font-family: monospace; */
         line-height: 18px;
     }
     #site-header-menu #site-navigation .menu li,
@@ -1545,7 +1545,7 @@
 @media (max-width: 575px) {
     .ttm-header-style-01 .site-branding img,
     .site-branding img {
-        max-height: 40px;
+        max-height: 30px;
     }
     .ttm-header-icons .ttm-header-icon {
         margin-left: 0;
