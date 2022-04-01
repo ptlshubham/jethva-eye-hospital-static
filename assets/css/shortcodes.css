@@ -389,7 +389,7 @@
 }
 
 .col-bg-img-two.ttm-col-bgimage-yes .ttm-col-wrapper-bg-layer {
-    background-image: url(https://via.placeholder.com/584X416/444444.jpg) !important;
+    /* background-image: url(https://via.placeholder.com/584X416/444444.jpg) !important; */
     background-position: center center!important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
